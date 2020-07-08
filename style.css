@@ -66,3 +66,12 @@ header{
 .testimony-display{
     display: flex;
 }
+footer{
+    background-color: #282531;
+}
+.foot-text{
+    color: white;
+}
+footer ul{
+    list-style: none;
+}
