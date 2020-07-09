@@ -68,10 +68,21 @@ header{
 }
 footer{
     background-color: #282531;
+    text-align: center;
 }
 .foot-text{
     color: white;
 }
 footer ul{
     list-style: none;
+}
+.foot-copyright{
+    color: white;
+}
+.foot-container{
+    padding: 20px 0px 0px 0px;
+}
+.carousel-item{
+    padding: 20px 20px;
+    background-color: rgba(211, 211, 211, 0.753);
 }
